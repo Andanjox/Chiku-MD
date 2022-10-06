@@ -151,7 +151,7 @@ Miku.ev.on('group-participants.update', async (anu) => {
                 mikutext = `
 Hello @${WAuserName.split("@")[0]},
 
-I am *sanju*, Welcome to ${metadata.subject}.
+I am *संत आसाराम बापू &◄͜͡❂͜͡ᗰᗩՏTᗩᑎᗩ᭄»ͦ◄͜͡❂͜͡𝐌𝐊᭄»ͦ & SANJU BHAI & ARJUN BHAI*, Welcome to ${metadata.subject}.
 `
 
     let buttonMessage = {
